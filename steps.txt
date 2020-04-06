@@ -1,0 +1,4 @@
+Data Science Life Cycle:
+
+*1) Data Collection
+2) Preprocessing
